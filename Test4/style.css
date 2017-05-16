@@ -1,0 +1,39 @@
+body{
+    background-color: #F3F3F3;
+}
+#userForm {
+    display: none;
+    margin-top: 15px;
+}
+
+#list {
+    margin-top: 15px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+td,th{
+    border-bottom: 1px solid grey;
+    height: 30px;
+    padding: 3px 5px;
+}
+.del{
+    text-align: right;
+}
+.user {
+    background-color: #818181;
+    min-width:500px;
+    padding:20px;
+}
+
+.test {
+    font-size: 30px;
+    margin-bottom: 15px;
+    color:#00FFA9;
+}
+
+#new,#list{
+    width:160px;
+    border-radius:8px;
+}
